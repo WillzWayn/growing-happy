@@ -10,7 +10,7 @@ flask-restplus==0.13.0
 idna==2.9
 itsdangerous==1.1.0
 Jinja2==2.11.1
-joblib==0.14.1
+joblib==1.2.0
 jsonschema==3.2.0
 kiwisolver==1.1.0
 MarkupSafe==1.1.1
